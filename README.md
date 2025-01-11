@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habib-1&label=Profile%20views&color=0e75b6&style=flat" alt="habib-1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habib-1" alt="habib-1" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/habib191098" target="blank"><img src="https://img.shields.io/twitter/follow/habib191098?logo=twitter&style=for-the-badge" alt="habib191098" /></a> </p>
 
 - 🔭 I’m currently working on [GreatKart (Practice Project)](https://greatkart-8ieh.onrender.com)
