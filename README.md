@@ -4,7 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habib-1&label=Profile%20views&color=0e75b6&style=flat" alt="habib-1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/habib191098" target="blank"><img src="https://img.shields.io/twitter/follow/habib191098?logo=twitter&style=for-the-badge" alt="habib191098" /></a> </p>
-
+<h4>About Me</h4>
+<p>I am a passionate developer with a focus on Python and Django, specializing in building powerful and scalable web applications. I have a strong understanding of the Django framework, including Django REST Framework (DRF), which I use to create robust APIs for modern applications. In addition to backend development, I am proficient in using Postman for API testing and ensuring that APIs perform efficiently and correctly.
+With a keen eye for detail and problem-solving skills, I aim to build applications that deliver excellent user experiences while maintaining clean, efficient code.
+</p>
 - 🔭 I’m currently working on [GreatKart (Practice Project)](https://greatkart-8ieh.onrender.com)
 
 - 🌱 I’m currently learning **Django Rest Framework**
