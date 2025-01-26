@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Habibur Rahman Habib</h1>
-<h3 align="center">A passionate backend developer from Bangladesh.</h3>
+<h3 align="center">Software Developer | Python & Django Enthusiast | DRF | Postman | Exploring DSA with Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habib-1&label=Profile%20views&color=0e75b6&style=flat" alt="habib-1" /> </p>
 
