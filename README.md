@@ -1,261 +1,136 @@
 <h1 align="center">Hi 👋, I'm Habibur Rahman Habib</h1>
 
 <h3 align="center">
-Python & Django Backend Developer
+  Python & Django Backend Developer
 </h3>
 
 <p align="center">
-  Building REST APIs and backend applications with Python, Django and Django REST Framework.
+  <em>
+    Building REST APIs, backend systems and database-driven applications
+    with Python & Django.
+  </em>
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-  •
-  <a href="YOUR_LEETCODE_URL">LeetCode</a>
-  •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
-  •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Python & Django Backend Developer** focused on building
-clean, maintainable and scalable backend applications.
+I'm a **Python & Django Backend Developer** focused on building clean,
+maintainable and reliable backend applications.
 
 My primary focus is **Django and Django REST Framework**, with hands-on
 experience in REST API development, authentication, authorization,
-database design, background tasks, containerization and API documentation.
+database design, background tasks, API documentation and performance
+profiling.
 
-I enjoy solving backend problems, improving database performance and
-learning software engineering best practices through real-world projects.
+I enjoy solving backend problems and improving the quality and performance
+of applications through better architecture, database queries and
+engineering practices.
 
-- 🔭 Currently building: **YOUR_CURRENT_PROJECT**
-- 🌱 Currently learning: **YOUR_CURRENT_LEARNING**
-- 💼 Looking for: **Junior / Entry-Level Python Django Backend opportunities**
-- 📍 Based in: **YOUR_LOCATION**
-- 📫 Reach me: **YOUR_EMAIL**
+- 🔭 Currently working on **YOUR_CURRENT_PROJECT**
+- 🌱 Currently learning **YOUR_CURRENT_LEARNING**
+- 💼 Looking for **Junior / Entry-Level Python Django Backend opportunities**
+- 📍 Based in **Bangladesh**
+- 📫 Email: **YOUR_EMAIL**
 
 ---
 
-## 🛠️ Tech Stack
+# ⚙️ Backend Engineering Stack
 
-### Backend
+### Languages & Frameworks
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,django" />
 </p>
 
-- Python
-- Django
-- Django REST Framework
-- REST API Development
-- JWT Authentication
-- Permissions & Authorization
+`Python` `Django` `Django REST Framework`
 
-### Database
+### Database & Backend Services
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql" />
+  <img src="https://skillicons.dev/icons?i=postgresql,redis" />
 </p>
 
-- PostgreSQL
-- SQL
-- Database Design
-- Query Optimization
+`PostgreSQL` `Redis` `SQL`
 
-### Background Tasks & Caching
+### Async Processing & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=redis" />
+  <img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
-- Redis
-- Celery
-- Background Task Processing
-- Caching Concepts
+`Celery` `Docker` `Docker Compose`
 
-### DevOps & Tools
+### API & Development Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github" />
-</p>
+`JWT` `REST APIs` `OpenAPI` `Swagger`
+`drf-spectacular` `Postman` `REST Client`
 
-- Docker
-- Docker Compose
-- Git
-- GitHub
-- Environment Configuration
+### Performance
 
-### API Development & Testing
-
-- Postman
-- REST Client
-- OpenAPI
-- Swagger
-- drf-spectacular
-- API Testing
-
-### Performance & Debugging
-
-- Django Silk
-- Query Profiling
-- N+1 Query Detection
-- Database Query Optimization
+`Django Silk` `Query Profiling` `N+1 Detection`
+`Query Optimization`
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Project
 
-### 💰 Expense Splitter API
+## 💰 Expense Splitter API
 
-**YOUR_GITHUB_REPO_URL**
+<a href="YOUR_EXPENSE_SPLITTER_REPO">
+  <img src="https://img.shields.io/badge/View%20Project-Expense%20Splitter-181717?style=for-the-badge&logo=github" />
+</a>
 
 A backend-focused expense management and group settlement API built with
-Django REST Framework.
+**Django REST Framework**.
 
-#### Key Features
+### Core Features
 
-- JWT authentication
-- User and group management
-- Group membership management
-- Role-based permissions
-- Expense CRUD operations
-- Flexible expense splitting
-- Per-user balance calculation
-- Settlement calculation
-- PostgreSQL database
-- Celery background tasks
-- Dockerized development environment
-- OpenAPI / Swagger documentation
-- API testing with Postman
-- Performance profiling with Django Silk
+- 🔐 JWT Authentication
+- 👥 Group & Membership Management
+- 🛡️ Role-based Permissions
+- 💰 Expense Management
+- 🧮 Automatic Expense Splitting
+- 📊 Per-user Balance Calculation
+- 🔄 Settlement Calculation
+- 📧 Background Tasks with Celery
+- 🐘 PostgreSQL
+- 🐳 Docker & Docker Compose
+- 📚 OpenAPI / Swagger Documentation
+- 🧪 API Testing with Postman
+- 🔍 Django Silk Performance Profiling
+- ⚡ Database Query Optimization
 
-**Tech Stack:**
+### Architecture & Technologies
 
-`Python` `Django` `DRF` `PostgreSQL` `JWT`
-`Celery` `Redis` `Docker` `OpenAPI`
-
----
-
-### 🛒 YOUR_PROJECT_NAME
-
-**YOUR_GITHUB_REPO_URL**
-
-Short description of what the project does and what problem it solves.
-
-#### Highlights
-
-- YOUR_FEATURE
-- YOUR_FEATURE
-- YOUR_FEATURE
-- YOUR_FEATURE
-
-**Tech Stack:**
-
-`Python` `Django` `DRF` `PostgreSQL` `YOUR_TECH`
-
----
-
-### 📦 YOUR_PROJECT_NAME
-
-**YOUR_GITHUB_REPO_URL**
-
-Short professional description of the project.
-
-#### Highlights
-
-- YOUR_FEATURE
-- YOUR_FEATURE
-- YOUR_FEATURE
-
-**Tech Stack:**
-
-`Python` `Django` `DRF` `PostgreSQL` `YOUR_TECH`
-
----
-
-## 🧪 Engineering Practices
-
-I focus on building backend systems with:
-
-- Clean and maintainable code
-- Separation of responsibilities
-- Reusable service-layer logic
-- Proper authentication and authorization
-- Efficient database queries
-- API documentation
-- Performance profiling
-- Background task processing
-- Containerized development
-- Testing and debugging
-
----
-
-## 📚 Currently Learning & Improving
-
-- Advanced Django & Django REST Framework
-- Automated testing with pytest
-- Database performance optimization
-- Redis caching
-- Celery and asynchronous task processing
-- Docker-based deployment
-- CI/CD
-- Clean architecture
-- Data Structures & Algorithms with Python
-
----
-
-## 🎯 Career Focus
-
-I'm currently looking for opportunities as a:
-
-**Junior Python / Django Backend Developer**
-
-I'm particularly interested in working on:
-
-- REST API development
-- Backend systems
-- Django applications
-- Database-driven applications
-- SaaS products
-- Scalable web applications
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I'm open to **Junior / Entry-Level Python Django Backend opportunities,
-backend projects and professional collaborations.**
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
-
-</p>
+```text
+                    ┌──────────────────────┐
+                    │      REST Client     │
+                    │      / Postman       │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │    Django REST API   │
+                    └──────────┬───────────┘
+                               │
+             ┌─────────────────┼─────────────────┐
+             ▼                 ▼                 ▼
+       PostgreSQL           Redis             Celery
+        Database            Cache          Background Tasks
