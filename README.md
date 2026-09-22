@@ -17,7 +17,7 @@
 <!-- HEADER -->
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Habibur%20Rahman%20Habib&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20Django%20%26%20DRF&descAlignY=58&descSize=18"
+src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Habibur%20Rahman%20Habib&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20Django%20%26%20DRF&descAlignY=58&descSize=18](https://www.linkedin.com/in/habiburrahman-habib/overlay/background-photo/)"
 width="100%"
 />
 
