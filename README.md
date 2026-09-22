@@ -4,12 +4,13 @@
   ════════════════════════════════════════════════════════════
   1. GitHub username used everywhere: Habib-1  → find & replace if it ever changes
   2. LinkedIn / Email links are in the top badge row AND the footer — update both
-  3. "Featured Project" block → duplicate it for a new flagship project
-  4. "Other Projects" table → add a new row per side-project (repo link + 1-line desc)
-  5. "Currently Leveling Up" badges → move a skill here from Tech Stack once you
+  3. Project Showcase → Project 01 (Expense Splitter) is real. Projects 02 & 03
+     are TEMPLATES with dummy data — replace title, description, tech badges,
+     and the three link badges (GitHub / Live Demo / Docs) once those repos exist
+  4. "Currently Leveling Up" badges → move a skill here from Tech Stack once you
      start learning it, and move it back once you're confident in it
-  6. Resume badge link (in top row) → currently "#", replace with your PDF/Drive link
-  7. Dynamic sections (auto-update, don't hand-edit):
+  5. Resume badge link (in top row) → currently "#", replace with your PDF/Drive link
+  6. Dynamic sections (auto-update, don't hand-edit):
        - Profile views counter        → updates itself, no action needed
        - Recent GitHub Activity        → needs activity.yml workflow (included)
        - Contribution Snake            → needs snake.yml workflow (included)
@@ -59,16 +60,20 @@
 
 <br/>
 
+---
+
 ## 👋 About Me
 
 I'm a **fresher backend developer from Bangladesh** who builds REST APIs the way production teams expect them — not just "it works," but authenticated, documented, cached, containerized, and readable by the next engineer.
 
-I'm not chasing tutorials to copy. I'm building one real, end-to-end system (**Expense Splitter**) that reflects how a backend actually behaves in production — and I'm expanding it deliberately with testing, caching, and background jobs as I go.
+I'm not chasing tutorials to copy. I build real, end-to-end systems that reflect how a backend actually behaves in production — and I expand them deliberately with testing, caching, and background jobs as I learn.
 
 🎓 BSc in CSE — Northern University Bangladesh
 🎯 Actively seeking **Junior / Fresher Django Backend Developer** roles in Bangladesh
 
 <br/>
+
+---
 
 ## 💡 What I Bring to a Team
 
@@ -97,6 +102,8 @@ I profile query performance with Django Silk instead of assuming my ORM calls ar
 
 <br/>
 
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -120,19 +127,18 @@ I profile query performance with Django Silk instead of assuming my ORM calls ar
 
 <br/>
 
-## 🚀 Featured Project
+---
 
-<div align="center">
-<table>
-<tr>
-<td>
+## 🚀 Project Showcase
 
-### 💸 [Expense Splitter](https://github.com/Habib-1)
+<sub>Three pinned projects, most recent first. Projects 02 and 03 below are placeholders — swap in real details once those repos are ready.</sub>
+
+<br/>
+
+### 01 · 💸 Expense Splitter
 **A production-oriented REST API for managing shared group expenses.**
 
 Users create groups, manage members, record shared expenses, and get an accurate breakdown of who owes what — built the way a real fintech-adjacent API would be, not a toy CRUD app.
-
-<br/>
 
 **Engineering highlights:**
 - 🔐 JWT-based authentication & permission-scoped endpoints
@@ -142,29 +148,78 @@ Users create groups, manage members, record shared expenses, and get an accurate
 - 🧪 Manually verified via Postman / REST Client collections
 - 🗄️ PostgreSQL as the system of record
 
-<br/>
-
+<p>
 <img src="https://img.shields.io/badge/Django-REST%20Framework-0F2027?style=flat-square&logo=django" />
 <img src="https://img.shields.io/badge/PostgreSQL-0F2027?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-0F2027?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Status-Active%20Development-2C5364?style=flat-square" />
+</p>
 
-</td>
-</tr>
-</table>
+<a href="https://github.com/Habib-1"><img src="https://img.shields.io/badge/Code-0F2027?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-2C5364?style=flat-square&logo=render&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/API%20Docs-0F2027?style=flat-square&logo=swagger&logoColor=white" /></a>
+
+<br/><br/>
+
+<!-- 🔧 TEMPLATE — replace title, description, badges & links once this repo exists -->
+### 02 · 🗂️ TaskFlow API &nbsp;<sub>_(template — replace with your real project)_</sub>
+**A team task & project management REST API.**
+
+Teams create projects, assign tasks with due dates and priorities, and track progress through status transitions (To Do → In Progress → Done), with role-based access so only assigned members can update a task.
+
+**Planned/Sample highlights:**
+- 🔐 JWT auth with role-based permissions (Admin / Member)
+- 📄 Swagger-documented endpoints via `drf-spectacular`
+- ⏰ Celery + Redis for due-date reminder notifications
+- 🐳 Dockerized for one-command local setup
+- 🧪 Tested with Postman collections
+
+<p>
+<img src="https://img.shields.io/badge/Django-REST%20Framework-0F2027?style=flat-square&logo=django" />
+<img src="https://img.shields.io/badge/Celery-2C5364?style=flat-square&logo=celery&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-0F2027?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Planned-999999?style=flat-square" />
+</p>
+
+<a href="#"><img src="https://img.shields.io/badge/Code-0F2027?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-2C5364?style=flat-square&logo=render&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/API%20Docs-0F2027?style=flat-square&logo=swagger&logoColor=white" /></a>
+
+<br/><br/>
+
+<!-- 🔧 TEMPLATE — replace title, description, badges & links once this repo exists -->
+### 03 · 📦 InventoryPro API &nbsp;<sub>_(template — replace with your real project)_</sub>
+**A stock & inventory management REST API for small businesses.**
+
+Tracks products, stock levels, and suppliers across warehouses, with automatic low-stock alerts and daily stock-report generation running as background jobs.
+
+**Planned/Sample highlights:**
+- 🔐 JWT-authenticated multi-user access
+- ⏰ Celery Beat for scheduled low-stock alerts & daily reports
+- 📄 Interactive API docs via Swagger UI
+- 🔍 Query profiling with Django Silk
+- 🗄️ PostgreSQL with indexed inventory queries
+
+<p>
+<img src="https://img.shields.io/badge/Django-REST%20Framework-0F2027?style=flat-square&logo=django" />
+<img src="https://img.shields.io/badge/PostgreSQL-2C5364?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Celery%20Beat-0F2027?style=flat-square&logo=celery&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Planned-999999?style=flat-square" />
+</p>
+
+<a href="#"><img src="https://img.shields.io/badge/Code-0F2027?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-2C5364?style=flat-square&logo=render&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/API%20Docs-0F2027?style=flat-square&logo=swagger&logoColor=white" /></a>
+
+<br/><br/>
+
+<div align="center">
+<a href="https://github.com/Habib-1?tab=repositories"><img src="https://img.shields.io/badge/See%20all%20repositories-0F2027?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <br/>
 
-## 📂 Other Projects
-
-<!-- Duplicate this row for every new side-project you push -->
-
-| Project | Description | Tech |
-|---|---|---|
-| _Add your next project here_ | _One-line description of what it does_ | `Django` `DRF` `...` |
-
-<br/>
+---
 
 ## 📚 Currently Leveling Up
 
@@ -174,9 +229,11 @@ Users create groups, manage members, record shared expenses, and get an accurate
 <img src="https://img.shields.io/badge/Celery%20Beat-0F2027?style=for-the-badge&logo=celery&logoColor=white" />
 </div>
 
-<p align="center"><i>Roadmap: full <code>pytest</code> coverage → Redis-backed caching layer → Celery Beat for scheduled settlement reminders.</i></p>
+<p align="center"><i>Roadmap: full <code>pytest</code> coverage → Redis-backed caching layer → Celery Beat for scheduled jobs across all projects.</i></p>
 
 <br/>
+
+---
 
 ## 📈 Recent GitHub Activity
 <!--START_SECTION:activity-->
@@ -184,6 +241,8 @@ Users create groups, manage members, record shared expenses, and get an accurate
 <!--END_SECTION:activity-->
 
 <br/>
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -198,6 +257,8 @@ Users create groups, manage members, record shared expenses, and get an accurate
 
 <br/>
 
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -205,6 +266,8 @@ Users create groups, manage members, record shared expenses, and get an accurate
 </div>
 
 <br/>
+
+---
 
 ## 🐍 Contribution Snake
 
@@ -217,6 +280,8 @@ Users create groups, manage members, record shared expenses, and get an accurate
 </div>
 
 <br/>
+
+---
 
 <div align="center">
 
