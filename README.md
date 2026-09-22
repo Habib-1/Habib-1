@@ -1,3 +1,22 @@
+<!--
+  ════════════════════════════════════════════════════════════
+  HOW TO CUSTOMIZE THIS README (quick guide for future edits)
+  ════════════════════════════════════════════════════════════
+  1. GitHub username used everywhere: Habib-1  → find & replace if it ever changes
+  2. LinkedIn / Email links are in the top badge row AND the footer — update both
+  3. "Featured Project" block → duplicate it for a new flagship project
+  4. "Other Projects" table → add a new row per side-project (repo link + 1-line desc)
+  5. "Currently Leveling Up" badges → move a skill here from Tech Stack once you
+     start learning it, and move it back once you're confident in it
+  6. Resume badge link (in top row) → currently "#", replace with your PDF/Drive link
+  7. Dynamic sections (auto-update, don't hand-edit):
+       - Profile views counter        → updates itself, no action needed
+       - Recent GitHub Activity        → needs activity.yml workflow (included)
+       - Contribution Snake            → needs snake.yml workflow (included)
+       - GitHub Stats / Streak / Langs → pull live from your GitHub, no action needed
+  ════════════════════════════════════════════════════════════
+-->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Md%20Habibur%20Rahman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Django%20%2F%20DRF%20Backend%20Developer&descAlignY=58&descSize=18" width="100%"/>
@@ -137,6 +156,16 @@ Users create groups, manage members, record shared expenses, and get an accurate
 
 <br/>
 
+## 📂 Other Projects
+
+<!-- Duplicate this row for every new side-project you push -->
+
+| Project | Description | Tech |
+|---|---|---|
+| _Add your next project here_ | _One-line description of what it does_ | `Django` `DRF` `...` |
+
+<br/>
+
 ## 📚 Currently Leveling Up
 
 <div align="center">
@@ -146,6 +175,13 @@ Users create groups, manage members, record shared expenses, and get an accurate
 </div>
 
 <p align="center"><i>Roadmap: full <code>pytest</code> coverage → Redis-backed caching layer → Celery Beat for scheduled settlement reminders.</i></p>
+
+<br/>
+
+## 📈 Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!-- This section auto-fills once activity.yml runs on GitHub Actions -->
+<!--END_SECTION:activity-->
 
 <br/>
 
@@ -179,8 +215,6 @@ Users create groups, manage members, record shared expenses, and get an accurate
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Habib-1/Habib-1/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
-
-<p align="center"><i>⚙️ Requires a one-time GitHub Actions setup — see the included <code>snake.yml</code> workflow file.</i></p>
 
 <br/>
 
