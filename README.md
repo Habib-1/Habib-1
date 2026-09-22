@@ -1,105 +1,156 @@
-<h1 align="center">Hi there, I'm Md Habibur Rahman 👋</h1>
-<h3 align="center">Junior / Fresher Python Django Backend Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Django+%2B+DRF+Backend+Developer;Building+REST+APIs+with+PostgreSQL+%26+Redis;Learning+Testing+%2C+Caching+%26+Async+Tasks" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Md%20Habibur%20Rahman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Django%20%2F%20DRF%20Backend%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/habiburrahman-habib/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:habiburrahman191098@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C5364&center=true&vCenter=true&width=650&lines=Building+production-grade+REST+APIs;Django+%2B+DRF+%7C+PostgreSQL+%7C+Redis+%2B+Celery;Docs-first+%C2%B7+Container-first+%C2%B7+Test-driven+mindset" alt="Typing SVG" />
 
----
+<br/>
 
-### 🧑‍💻 About Me
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-2C5364?style=for-the-badge&labelColor=0F2027" />
+<img src="https://komarev.com/ghpvc/?username=Habib-1&style=for-the-badge&color=2C5364&labelColor=0F2027&label=PROFILE+VIEWS" />
 
-I'm a fresher backend developer from Bangladesh, focused on building **production-oriented REST APIs** with **Django REST Framework**. I care about writing clean, well-documented, and testable backend code — not just making things "work", but making them work the way real-world systems do: authenticated, cached, documented, and containerized.
+<br/><br/>
 
-- 🎓 BSc in CSE, Northern University Bangladesh
-- 🚀 Currently building: **Expense Splitter** (see below)
-- 📈 Currently leveling up: `pytest`, Redis caching strategies, Celery Beat scheduled tasks
-- 🎯 Actively looking for **Junior / Fresher Backend Developer** roles in Bangladesh
-- ⚡ Fun fact: I'd rather debug a race condition than skip writing tests
+<a href="https://www.linkedin.com/in/habiburrahman-habib/">
+<img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:habiburrahman191098@gmail.com">
+<img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Habib-1">
+<img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
----
+</div>
 
-### 🛠️ Tech Stack
+<br/>
 
-**Languages & Frameworks**
+## 👋 About Me
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+I'm a **fresher backend developer from Bangladesh** who builds REST APIs the way production teams expect them — not just "it works," but authenticated, documented, cached, containerized, and readable by the next engineer.
 
-**Database & Caching**
+I'm not chasing tutorials to copy. I'm building one real, end-to-end system (**Expense Splitter**) that reflects how a backend actually behaves in production — and I'm expanding it deliberately with testing, caching, and background jobs as I go.
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+🎓 BSc in CSE — Northern University Bangladesh
+🎯 Actively seeking **Junior / Fresher Django Backend Developer** roles in Bangladesh
+🧩 Currently deepening: `pytest`, Redis caching patterns, Celery Beat scheduled tasks
 
-**DevOps & Tools**
+<br/>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+## 💡 What I Bring to a Team
 
-**API Docs & Debugging**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-<img src="https://img.shields.io/badge/drf--spectacular-092E20?style=flat-square" />
-<img src="https://img.shields.io/badge/Django%20Silk-1E88E5?style=flat-square" />
+**🔗 API-First Thinking**
+Design endpoints around real client needs, not just CRUD — with DRF serializers, viewsets, and permissions structured cleanly.
 
-**Frontend (basic)**
+**📖 Documentation-Driven**
+Every API I build is self-documenting via `drf-spectacular` / Swagger — so a frontend dev or teammate never has to guess an endpoint.
 
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</td>
+<td width="50%" valign="top">
 
----
+**🐳 Container-First Workflow**
+Comfortable working inside Docker / Docker Compose setups — the same way most real engineering teams ship code.
 
-### 🚀 Featured Project
+**🔍 Performance-Aware**
+I profile query performance with Django Silk instead of assuming my ORM calls are efficient.
 
-#### [Expense Splitter](https://github.com/Habib-1)
-A production-oriented REST API for managing shared group expenses, built with Django REST Framework.
+</td>
+</tr>
+</table>
 
-Users can create groups, manage members, record expenses, track individual contributions, and see exactly how costs are split among group members — similar to Splitwise.
+<br/>
 
-**Key highlights:**
-- 🔐 JWT-based authentication
-- 📄 Auto-generated API docs with `drf-spectacular` (Swagger UI)
-- 🐳 Fully containerized with Docker & Docker Compose
-- 🔍 Query profiling with Django Silk
-- 🧪 API tested via Postman / REST Client
-- 🗄️ PostgreSQL as the primary database
+## 🛠️ Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" />
-<img src="https://img.shields.io/badge/Django-REST%20Framework-092E20?style=flat-square&logo=django" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,django,postgres,redis,docker,git,github,postman,tailwind&theme=dark" />
+</div>
 
-> 🔜 Next up: adding `pytest` test coverage, Redis-based caching, and Celery Beat for scheduled reminders.
+<br/>
 
----
+<div align="center">
 
-### 📊 GitHub Stats
+| Category | Tools & Practices |
+|---|---|
+| **Backend & API** | Django · Django REST Framework · JWT Authentication |
+| **Async & Background Jobs** | Celery · Redis (broker & caching) |
+| **API Documentation** | drf-spectacular · Swagger UI |
+| **Debugging & Profiling** | Django Silk |
+| **Testing & Quality (in progress)** | pytest, Celery Beat |
+| **Tooling** | Postman · REST Client · Git / GitHub |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Habib-1&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Habib-1&hide_border=true" height="165" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habib-1&layout=compact&hide_border=true" height="165" />
-</p>
+<br/>
 
----
+## 🚀 Featured Project
 
-### 📫 Let's Connect
+<div align="center">
+<table>
+<tr>
+<td>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/habiburrahman-habib/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:habiburrahman191098@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+### 💸 [Expense Splitter](https://github.com/Habib-1)
+**A production-oriented REST API for managing shared group expenses.**
 
-<p align="center"><i>Open to Junior / Fresher Backend Developer roles — let's build something reliable together.</i></p>
+Users create groups, manage members, record shared expenses, and get an accurate breakdown of who owes what — built the way a real fintech-adjacent API would be, not a toy CRUD app.
+
+<br/>
+
+**Engineering highlights:**
+- 🔐 JWT-based authentication & permission-scoped endpoints
+- 📄 Self-documenting API via `drf-spectacular` (interactive Swagger UI)
+- 🐳 Fully containerized — spins up with a single `docker-compose up`
+- 🔍 Query performance monitored with Django Silk
+- 🧪 Manually verified via Postman / REST Client collections
+- 🗄️ PostgreSQL as the system of record
+
+<br/>
+
+<img src="https://img.shields.io/badge/Django-REST%20Framework-0F2027?style=flat-square&logo=django" />
+<img src="https://img.shields.io/badge/PostgreSQL-0F2027?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-0F2027?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Active%20Development-2C5364?style=flat-square" />
+
+</td>
+</tr>
+</table>
+</div>
+
+> 🔜 **Roadmap:** `pytest` test suite → Redis-backed caching layer → Celery Beat for scheduled settlement reminders.
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Habib-1&show_icons=true&theme=transparent&hide_border=true&title_color=2C5364&icon_color=2C5364&text_color=333333" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Habib-1&hide_border=true&theme=default&background=FFFFFF00&ring=2C5364&fire=2C5364&currStreakLabel=2C5364" height="165" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habib-1&layout=compact&hide_border=true&theme=transparent&title_color=2C5364&text_color=333333" height="165" />
+</div>
+
+<br/>
+
+<div align="center">
+
+## 📫 Let's Build Something Reliable Together
+
+<a href="https://www.linkedin.com/in/habiburrahman-habib/">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:habiburrahman191098@gmail.com">
+<img src="https://img.shields.io/badge/Send%20an%20Email-0F2027?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+
+</div>
