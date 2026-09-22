@@ -20,6 +20,21 @@
 <a href="https://github.com/Habib-1">
 <img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="#">
+<img src="https://img.shields.io/badge/Resume-2C5364?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+## ⚡ Quick Facts
+
+<div align="center">
+
+| 📍 Location | 💼 Looking For | 🗣 Languages | ⏰ Availability |
+|:---:|:---:|:---:|:---:|
+| Dhaka, Bangladesh | Junior/Fresher Backend Dev (Full-time) | Bengali (Native) · English (Professional) | Immediate |
 
 </div>
 
@@ -33,7 +48,6 @@ I'm not chasing tutorials to copy. I'm building one real, end-to-end system (**E
 
 🎓 BSc in CSE — Northern University Bangladesh
 🎯 Actively seeking **Junior / Fresher Django Backend Developer** roles in Bangladesh
-🧩 Currently deepening: `pytest`, Redis caching patterns, Celery Beat scheduled tasks
 
 <br/>
 
@@ -121,7 +135,17 @@ Users create groups, manage members, record shared expenses, and get an accurate
 </table>
 </div>
 
-> 🔜 **Roadmap:** `pytest` test suite → Redis-backed caching layer → Celery Beat for scheduled settlement reminders.
+<br/>
+
+## 📚 Currently Leveling Up
+
+<div align="center">
+<img src="https://img.shields.io/badge/pytest-0F2027?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis%20Caching-2C5364?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Celery%20Beat-0F2027?style=for-the-badge&logo=celery&logoColor=white" />
+</div>
+
+<p align="center"><i>Roadmap: full <code>pytest</code> coverage → Redis-backed caching layer → Celery Beat for scheduled settlement reminders.</i></p>
 
 <br/>
 
@@ -135,6 +159,28 @@ Users create groups, manage members, record shared expenses, and get an accurate
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habib-1&layout=compact&hide_border=true&theme=transparent&title_color=2C5364&text_color=333333" height="165" />
 </div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Habib-1&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Habib-1/Habib-1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Habib-1/Habib-1/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Habib-1/Habib-1/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+<p align="center"><i>⚙️ Requires a one-time GitHub Actions setup — see the included <code>snake.yml</code> workflow file.</i></p>
 
 <br/>
 
