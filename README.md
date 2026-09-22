@@ -11,16 +11,15 @@
   6. Update project links when the repositories are ready
 ╚════════════════════════════════════════════════════════════════════╝
 -->
-
+<div align="left">
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-2C5364?style=for-the-badge&labelColor=0F2027" />
+  <img src="https://komarev.com/ghpvc/?username=Habib-1&style=for-the-badge&color=2C5364&labelColor=0F2027&label=PROFILE+VIEWS" />
+</div>
 <div align="center">
 
 <!-- HEADER -->
 
-<img
-src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Habibur%20Rahman%20Habib&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20Django%20%26%20DRF&descAlignY=58&descSize=18](https://www.linkedin.com/in/habiburrahman-habib/overlay/background-photo/)"
-width="100%"
-/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Md%20Habibur%20Rahman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Django%20%2F%20DRF%20Backend%20Developer&descAlignY=58&descSize=18" width="100%"/>
 <br/>
 
 <img
@@ -28,12 +27,8 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pau
 alt="Typing SVG"
 />
 
-<br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-2C5364?style=for-the-badge&labelColor=0F2027" />
-<img src="https://komarev.com/ghpvc/?username=Habib-1&style=for-the-badge&color=2C5364&labelColor=0F2027&label=PROFILE+VIEWS" />
-
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/habiburrahman-habib/">
   <img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -350,12 +345,12 @@ height="165"
 
 <br/>
 
----
 
-## 📈 Contribution Activity
 
-<div align="center">
 
+
+<!-- <div align="center">
+ 📈 Contribution Activity
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=Habib-1&bg_color=ffffff00&color=2C5364&line=2C5364&point=0F2027&area=true&hide_border=true"
 width="95%"
@@ -363,14 +358,12 @@ width="95%"
 
 </div>
 
-<br/>
+<br/> -->
 
----
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
+<!-- <div align="center">
+🏆 GitHub Trophies
 <img
 src="https://github-profile-trophy.vercel.app/?username=Habib-1&theme=onedark&no-frame=true&row=1&column=6&margin-w=8"
 alt="GitHub Trophies"
@@ -378,9 +371,9 @@ alt="GitHub Trophies"
 
 </div>
 
-<br/>
+<br/> -->
 
----
+
 
 ## 🐍 Contribution Snake
 
