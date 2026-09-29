@@ -1,48 +1,34 @@
-<!--
-╔════════════════════════════════════════════════════════════════════╗
-  HABIBUR RAHMAN HABIB — GITHUB PROFILE README
-
-  Quick customization:
-  1. GitHub username: Habib-1
-  2. LinkedIn / Email links appear in header + footer
-  3. Project 01 = real project
-  4. Project 02 & 03 = reserved slots for future real projects
-  5. Replace Resume "#" with your actual resume link
-  6. Update project links when the repositories are ready
-╚════════════════════════════════════════════════════════════════════╝
--->
 <div align="left">
   <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-2C5364?style=for-the-badge&labelColor=0F2027" />
-  <img src="https://komarev.com/ghpvc/?username=Habib-1&style=for-the-badge&color=2C5364&labelColor=0F2027&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Habib-1&style=for-the-badge&color=2C5364&labelColor=0F2027&label=PROFILE+VIEWS" />  
 </div>
 <div align="center">
 
-<!-- HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Md%20Habibur%20Rahman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Django%20%2F%20DRF%20Backend%20Developer&descAlignY=58&descSize=18" width="100%"/>
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Md%20Habibur%20Rahman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Django%20%2F%20DRF%20%7C%20PostgreSQL&descAlignY=58&descSize=18" width="100%"/>
+
 <br/>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C5364&center=true&vCenter=true&width=720&lines=Building+reliable+REST+APIs;Python+%7C+Django+%7C+DRF+%7C+PostgreSQL;Docker+%7C+Redis+%7C+Celery;API+Documentation+%7C+Performance+Profiling"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C5364&center=true&vCenter=true&width=720&lines=Building+reliable+REST+APIs;Python+%7C+Django+%7C+DRF+%7C+PostgreSQL;JWT+%7C+Docker+%7C+Redis+%7C+Celery;API+Documentation+%7C+Query+Optimization"
 alt="Typing SVG"
 />
 
-
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/habiburrahman-habib/">
   <img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<a href="mailto:habiburrahman191098@gmail.com">
+<a href="mailto:habibbiswas350@gmail.com">
   <img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://github.com/Habib-1">
   <img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="#">
+<a href="https://github.com/Habib-1/Habib-1/blob/main/Habibur_Rahman_Backend_Developer.pdf">
   <img src="https://img.shields.io/badge/Resume-2C5364?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
 
@@ -56,9 +42,9 @@ alt="Typing SVG"
 
 <div align="center">
 
-|    📍 Location    |           💼 Looking For           | 🎓 Education |    🕐 Availability    |
-| :---------------: | :--------------------------------: | :----------: | :-------------------: |
-| Dhaka, Bangladesh | Junior / Fresher Backend Developer |  BSc in CSE  | Open to Opportunities |
+|    📍 Location    |            💼 Looking For            | 🎓 Education |    🕐 Availability    |
+| :---------------: | :----------------------------------: | :----------: | :-------------------: |
+| Dhaka, Bangladesh | Backend Developer Intern / Junior Role |  BSc in CSE  | Open to Opportunities |
 
 </div>
 
@@ -68,17 +54,17 @@ alt="Typing SVG"
 
 ## 👋 About Me
 
-I'm a **Python Backend Developer** focused on building reliable and maintainable web APIs with **Django and Django REST Framework**.
+I'm a **Python backend developer** who builds REST APIs with **Django and Django REST Framework**, backed by **PostgreSQL**.
 
-I enjoy working on backend systems where authentication, permissions, database design, API architecture, documentation, background processing, and performance all matter.
+I've built and shipped real projects: a live e-commerce API for a client, a documented and query-optimized expense management API, and a healthcare platform with role-based access. I care about the things around an API too: authentication and permissions, clean business logic, documentation, and performance.
 
-My current backend stack includes **Python, Django, Django REST Framework, PostgreSQL, Docker, Redis, Celery, JWT authentication, and REST APIs**.
+**Stack:** Python · Django · DRF · PostgreSQL · JWT · Docker · Redis · Celery · Git/GitHub
 
-I also care about the engineering practices around an API — documenting endpoints with **drf-spectacular / Swagger**, profiling database queries with **Django Silk**, containerizing applications with **Docker**, and verifying APIs through **Postman and REST Client**.
+I document APIs with **drf-spectacular / Swagger**, profile database queries with **Django Silk**, containerize apps with **Docker Compose**, and test endpoints with **Postman and REST Client**.
 
-🎓 **BSc in Computer Science & Engineering — Northern University Bangladesh**
+🎓 **BSc in Computer Science & Engineering, Northern University Bangladesh**
 
-🎯 Currently seeking opportunities as a **Junior / Fresher Python-Django Backend Developer** where I can contribute to real products, learn from experienced engineers, and grow into a strong backend engineer.
+🎯 Looking for a **Backend Developer Internship or junior role** where I can contribute to real products and learn from experienced engineers.
 
 ---
 
@@ -91,31 +77,31 @@ I also care about the engineering practices around an API — documenting endpoi
 
 ### 🔗 API-First Thinking
 
-I build REST APIs around real application requirements with structured serializers, viewsets, permissions, authentication, filtering, and clean endpoint design.
+REST APIs built around real requirements: structured serializers, viewsets, permissions, filtering, and clean endpoint design.
 
 ### 🔐 Authentication & Authorization
 
-Hands-on experience with **JWT authentication**, custom user flows, permission classes, and role / membership-based API access.
+**JWT authentication**, custom permission classes, and role / membership-based access control.
 
 ### 🗄️ Database-Focused Development
 
-Comfortable working with **PostgreSQL, Django ORM, relationships, constraints, and query optimization**.
+**PostgreSQL, Django ORM, relationships, and query optimization** (`select_related`, `prefetch_related`, N+1 analysis).
 
 </td>
 
 <td width="50%" valign="top">
 
+### 🧱 Clean Business Logic
+
+Service-layer design that keeps business rules (like expense splitting and settlement) out of API views.
+
 ### 🐳 Containerized Development
 
-I use **Docker and Docker Compose** to create reproducible development environments and run application services consistently.
-
-### ⚙️ Background Processing
-
-Experience integrating **Celery and Redis** for asynchronous backend tasks such as notification and email-related processing.
+**Docker and Docker Compose** for reproducible environments with PostgreSQL, Redis, and Celery.
 
 ### 🔍 Performance Awareness
 
-I use **Django Silk** to inspect request performance and database queries rather than assuming ORM code is efficient.
+**Django Silk** to inspect requests and queries instead of assuming ORM code is efficient.
 
 </td>
 
@@ -130,7 +116,7 @@ I use **Django Silk** to inspect request performance and database queries rather
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,git,github,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,git,github,postman,react,tailwind&theme=dark" />
 
 </div>
 
@@ -138,18 +124,19 @@ I use **Django Silk** to inspect request performance and database queries rather
 
 <div align="center">
 
-| Category                    | Technologies                                |
-| --------------------------- | ------------------------------------------- |
-| **Languages**               | Python                                      |
-| **Backend**                 | Django · Django REST Framework              |
-| **API**                     | REST API · JWT Authentication · Permissions |
-| **Database**                | PostgreSQL · Django ORM                     |
-| **Async Processing**        | Celery · Redis                              |
-| **API Documentation**       | drf-spectacular · Swagger UI                |
-| **Performance & Debugging** | Django Silk · Query Profiling               |
-| **Dev Environment**         | Docker · Docker Compose                     |
-| **API Testing & Tools**     | Postman · REST Client                       |
-| **Version Control**         | Git · GitHub                                |
+| Category                    | Technologies                                          |
+| --------------------------- | ----------------------------------------------------- |
+| **Languages**               | Python · SQL                                          |
+| **Backend**                 | Django · Django REST Framework                        |
+| **API**                     | REST API · JWT Authentication · Permissions           |
+| **Database**                | PostgreSQL · Django ORM                               |
+| **Async Processing**        | Celery · Redis                                        |
+| **API Documentation**       | drf-spectacular · Swagger UI                          |
+| **Performance & Debugging** | Django Silk · Query Profiling                         |
+| **Dev Environment**         | Docker · Docker Compose                               |
+| **API Testing & Tools**     | Postman · REST Client                                 |
+| **Version Control**         | Git · GitHub                                          |
+| **Frontend (Basic)**        | React.js · Tailwind CSS |
 
 </div>
 
@@ -159,33 +146,20 @@ I use **Django Silk** to inspect request performance and database queries rather
 
 ## 🚀 Featured Projects
 
-> **Three project slots are maintained here so my profile can showcase my strongest backend work.**
-
----
-
 ### 01 · 💸 Expense Splitter API
 
-**A production-oriented REST API for managing shared group expenses and calculating user balances.**
+**A REST API for managing shared group expenses and calculating who owes whom.**
 
-Expense Splitter allows users to create groups, manage group memberships, record shared expenses, split expenses among members, and determine who owes or receives money.
-
-#### Engineering Highlights
-
-* 🔐 JWT-based authentication
+* 🔐 JWT authentication with group-level roles and custom permissions
 * 👥 Group and membership management
-* 🛡️ Group-level authentication & permission control
-* 💰 Expense CRUD operations
-* 🧮 Expense splitting and balance calculation
-* 📊 Group-level expense summary
-* 📄 Interactive API documentation with `drf-spectacular` / Swagger
-* 🐳 Dockerized development environment
-* 🐘 PostgreSQL database
-* ⚙️ Celery for background processing
-* 🔍 Django Silk for query and request profiling
-* 🧪 API verification using Postman and REST Client
+* 💰 Expense CRUD, expense sharing, and settlement calculations
+* 🧱 Service-layer business logic, separate from API views
+* 📄 Interactive API docs with `drf-spectacular` / Swagger
+* 🐳 Docker Compose environment with PostgreSQL, Redis, and Celery
+* 🔍 Profiled with Django Silk; N+1 queries fixed using `select_related()` and `prefetch_related()`
+* 🧪 Endpoints verified with Postman and REST Client
 
 <p>
-
 <img src="https://img.shields.io/badge/Python-0F2027?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-0F2027?style=flat-square&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/DRF-2C5364?style=flat-square" />
@@ -193,97 +167,81 @@ Expense Splitter allows users to create groups, manage group memberships, record
 <img src="https://img.shields.io/badge/Docker-0F2027?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Celery-2C5364?style=flat-square&logo=celery&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-0F2027?style=flat-square&logo=redis&logoColor=white" />
-
 </p>
 
-<p>
-
-<a href="https://github.com/Habib-1">
+<a href="https://github.com/Habib-1/expense-splitter-api">
   <img src="https://img.shields.io/badge/View%20Code-0F2027?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/API%20Docs-2C5364?style=for-the-badge&logo=swagger&logoColor=white" />
-</a>
-
-</p>
-
 ---
 
-### 02 · 🗂️ TaskFlow API
+### 02 · 🛒 E-commerce Web Application (Client Project)
 
-**A team task and project management REST API.**
+**A live online shoe store: Django REST backend with a React frontend.**
 
-> 🚧 **Project slot reserved — details will be updated when the project is completed.**
-
-Planned focus areas:
-
-* 🔐 JWT authentication and role-based permissions
-* 👥 Team and project management
-* 📋 Task assignment and status management
-* 📅 Due dates and priorities
-* ⚙️ Celery + Redis for background notifications
-* 📄 Interactive API documentation
-* 🐳 Dockerized development environment
-* 🧪 Automated API testing
+* 🛍️ REST APIs for products, cart, checkout, and order management
+* 🔐 JWT authentication
+* 📧 Email notifications
+* ⚛️ Integrated with a React frontend for browsing, cart, and order placement
 
 <p>
-
-<img src="https://img.shields.io/badge/Django-REST%20Framework-0F2027?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-0F2027?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/DRF-2C5364?style=flat-square" />
 <img src="https://img.shields.io/badge/PostgreSQL-0F2027?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Celery-2C5364?style=flat-square&logo=celery&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-0F2027?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Coming%20Soon-777777?style=flat-square" />
-
+<img src="https://img.shields.io/badge/React-0F2027?style=flat-square&logo=react&logoColor=white" />
 </p>
 
-<p>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Repository-0F2027?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://bongoshoes.com">
+  <img src="https://img.shields.io/badge/Live%20Site-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-
-</p>
 
 ---
 
-### 03 · 📦 Inventory Management API
+### 03 · 🏥 CuroSoft: Smart Healthcare Management System
 
-**A backend system for managing products, stock levels, suppliers, and inventory operations.**
+**A full-stack healthcare platform with an ML-based doctor suggestion system.**
 
-> 🚧 **Project slot reserved — details will be updated when the project is completed.**
-
-Planned focus areas:
-
-* 📦 Product and inventory management
-* 🏢 Supplier management
-* 📊 Stock movement tracking
-* 🔐 Role-based access control
-* ⚠️ Low-stock notifications
-* ⚙️ Celery background jobs
-* 📄 Swagger API documentation
-* 🔍 Database query profiling
-* 🐘 PostgreSQL
+* 🔐 JWT authentication and role-based profiles (patient / doctor)
+* 📅 Appointment scheduling
+* 💊 Prescription management and download
+* 📊 Patient and doctor dashboards with reports
 
 <p>
-
-<img src="https://img.shields.io/badge/Django-REST%20Framework-0F2027?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-2C5364?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-0F2027?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Celery-0F2027?style=flat-square&logo=celery&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Coming%20Soon-777777?style=flat-square" />
-
+<img src="https://img.shields.io/badge/Django-0F2027?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/DRF-2C5364?style=flat-square" />
+<img src="https://img.shields.io/badge/PostgreSQL-0F2027?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/React-0F2027?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-2C5364?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
-<p>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Repository-0F2027?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Habib-1/CuroSoft-Backend">
+  <img src="https://img.shields.io/badge/Backend%20Code-0F2027?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Habib-1/CuroSoft-frontend">
+  <img src="https://img.shields.io/badge/Frontend%20Code-0F2027?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+---
+
+### 04 · 📰 The Chronify: Online News Portal
+
+**A dynamic news website built with Django templates and PostgreSQL.**
+
+* 🗂️ Category filtering, breaking news, trending posts, and search
+* 🔎 SEO-friendly article pages
+* 🛠️ Admin workflow for managing news, authors, and categories
+* 📱 Responsive UI with performance optimization
+
+<p>
+<img src="https://img.shields.io/badge/Django-0F2027?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-0F2027?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-<br/>
+<a href="https://thechronify.com">
+  <img src="https://img.shields.io/badge/Live%20Site-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<br/><br/>
 
 <div align="center">
 
@@ -302,14 +260,14 @@ Planned focus areas:
 <div align="center">
 
 <img src="https://img.shields.io/badge/pytest-0F2027?style=for-the-badge&logo=pytest&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis%20Caching-2C5364?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Celery%20Beat-0F2027?style=for-the-badge&logo=celery&logoColor=white" />
-<img src="https://img.shields.io/badge/Advanced%20Django%20Patterns-2C5364?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-2C5364?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis%20Caching-0F2027?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Clean%20Architecture-2C5364?style=for-the-badge&logo=django&logoColor=white" />
 
 </div>
 
 <p align="center">
-<i>Continuously improving testing, caching, background scheduling, database performance, and backend architecture.</i>
+<i>Improving automated testing, CI/CD, caching, database performance, and backend architecture.</i>
 </p>
 
 <br/>
@@ -330,11 +288,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Habib-1&hide_border=
 height="165"
 />
 
-</div>
-
 <br/>
-
-<div align="center">
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habib-1&layout=compact&hide_border=true&theme=transparent&title_color=2C5364&text_color=333333"
@@ -344,36 +298,6 @@ height="165"
 </div>
 
 <br/>
-
-
-
-
-
-<!-- <div align="center">
- 📈 Contribution Activity
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Habib-1&bg_color=ffffff00&color=2C5364&line=2C5364&point=0F2027&area=true&hide_border=true"
-width="95%"
-/>
-
-</div>
-
-<br/> -->
-
-
-
-<!-- <div align="center">
-🏆 GitHub Trophies
-<img
-src="https://github-profile-trophy.vercel.app/?username=Habib-1&theme=onedark&no-frame=true&row=1&column=6&margin-w=8"
-alt="GitHub Trophies"
-/>
-
-</div>
-
-<br/> -->
-
-
 
 ## 🐍 Contribution Snake
 
@@ -402,7 +326,7 @@ alt="GitHub Trophies"
 
 ## 🎯 What I'm Looking For
 
-I'm currently open to **Junior / Fresher Python Backend Developer opportunities** where I can work with experienced engineers, contribute to real-world backend systems, and continue developing strong software engineering fundamentals.
+I'm open to a **Backend Developer Internship or junior Python/Django role** where I can work with experienced engineers on real-world backend systems and keep building strong engineering fundamentals.
 
 **Interested in:**
 
@@ -421,8 +345,7 @@ I'm currently open to **Junior / Fresher Python Backend Developer opportunities*
 <a href="https://www.linkedin.com/in/habiburrahman-habib/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<a href="mailto:habiburrahman191098@gmail.com">
+<a href="mailto:habibbiswas350@gmail.com">
   <img src="https://img.shields.io/badge/Send%20an%20Email-0F2027?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
